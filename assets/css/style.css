@@ -72,7 +72,7 @@
   
   /* Hero Style Start */
   .hero {
-    background-image: url('../images/hero-bg.jpg');
+    background-image: url('../image/hero-bg.jpeg');
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -238,7 +238,7 @@
   
   .contact-info iframe {
     width: 400px;
-    height: 400px;
+    height: 310px;
   }
   
   .contact-info div {
